@@ -4,7 +4,7 @@ const prompt = require('prompt-sync')();
 
 const chance = new Chance();
 
-const letters = ['J', 'T', 'M', 'O'];
+const letters = ['J', 'T', 'M', 'O', 'L', 'P', 'B', 'Z'];
 
 const ready = prompt('Ready? Enter, "y" ').toLocaleLowerCase();
 
